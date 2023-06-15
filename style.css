@@ -1,0 +1,152 @@
+body {
+  background: #ffffff;
+}
+
+.container {
+  margin: 0px auto;
+  max-width: 1440px;
+  width: 100vw;
+}
+
+.header-block {
+  width: 100vw;
+  margin: 20px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  }
+
+.header {
+  display: inline-block;
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.logo {
+  display: inline-block;
+  width: 238px;
+  height: 24px;
+  margin: 0px;
+}
+
+nav {
+  margin-right: 10px;
+  display: inline-block;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  margin-right: 0px;
+  gap: 30px;
+}
+
+.top {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.bg_shoes {
+  width: 100vw;
+  height: auto;
+}
+
+.top h2 {
+  position: absolute;
+  width: 80vw;
+  height: 297px;
+  font-family: monospace;
+  font-size: 56px;
+  font-weight: 400;
+  line-height: 78px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  text-transform: uppercase;
+  color: black;
+}
+
+.abreast {
+  display: flex;
+  gap: 60px;
+  margin: 100px 200px 100px 100px;
+}
+
+.abreast img {
+  width: 288px;
+  height: 288px;
+}
+
+.abreast p {
+  margin: 0px;
+  width: 815px;
+  height: 288px;
+  left: 420px;
+  top: 878px;
+  font-family: "Arial Narrow", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: 0.04em;
+  line-height: 56px;
+  color: #000000;
+}
+
+.bottom {
+  position: relative;
+}
+
+.bg_dark {
+  width: 100vw;
+  height: auto;
+}
+
+.bottom h2 {
+  position: absolute;
+  margin: 0px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 1030px;
+  height: 451px;
+  font-family: monospace;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 78px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.abreast-bottom {
+  display: flex;
+  gap: 150px;
+  margin: 100px;
+}
+
+.abreast-bottom img {
+  width: 606px;
+  height: 608px;
+}
+
+.text strong {
+  font-family: "Arial Narrow", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: 0.04em;
+  line-height: 56px;
+  color: #000000;
+}
+
+.text p {
+  font-family: "Arial Narrow", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  line-height: 38px;
+  color: #000000;
+}
