@@ -103,7 +103,7 @@ ul {
   color: black;
 }
 
-.abreast {
+.abreast { 
   display: flex;
   gap: 2vw;
   margin: 7vw 14vw 7vw 7vw;
@@ -162,6 +162,7 @@ ul {
 
 .abreast-bottom img {
   width: 42vw;
+  max-width: 606px;
 }
 
 .text strong {
