@@ -333,7 +333,7 @@ ul {
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 380px) {
   /*розділений текст*/
   .half_1,
   .half_2 {
