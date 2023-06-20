@@ -106,7 +106,7 @@ ul {
 .abreast { 
   display: flex;
   gap: 2vw;
-  margin: 7vw 14vw 7vw 7vw;
+  margin: 5vw 8vw 5vw 5vw;
   align-items: center;
 }
 
@@ -155,9 +155,9 @@ ul {
 
 .abreast-bottom {
   display: flex;
-  gap: 9vw;
-  margin: 7vw;
-  align-items: center;
+  gap: 6vw;
+  margin: 4vw;
+  align-items: flex-start;
 }
 
 .abreast-bottom img {
