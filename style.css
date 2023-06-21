@@ -331,6 +331,7 @@ ul {
   a {
     display: none;
   }
+
 }
 
 @media screen and (max-width: 380px) {
@@ -371,5 +372,9 @@ ul {
 
   .bg_dark {
     margin-top: 7vw;
+  }
+
+  nav {
+    display: none;
   }
 }
